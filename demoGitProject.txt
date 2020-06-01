@@ -5,3 +5,5 @@ This is an edit on line 2
 
 This is an edit on line 6
 ;dhsoafjewijh;bvuhv'
+
+Another contributor added this line of text
